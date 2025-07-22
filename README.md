@@ -14,9 +14,9 @@ This repository is a **fork** of [TorchLeet](https://github.com/Exorust/TorchLee
 ### 🔵 Basic
 Mostly for beginners to get started with PyTorch.
 
-- <del> [Implement linear regression](torch/basic/lin-regression/lin-regression.ipynb) </del>[(Solution)](torch/basic/lin-regression/lin-regression_SOLN.ipynb)
-- <del> [Write a custom Dataset and Dataloader to load from a CSV file] </del>(torch/basic/custom-dataset/custom-dataset.ipynb) [(Solution)](torch/basic/custom-dataset/custom-dataset_SOLN.ipynb)
-- <del> [Write a custom activation function (Simple)](torch/basic/custom-activation/custom-activation.ipynb) </del> [(Solution)](torch/basic/custom-activation/custom-activation_SOLN.ipynb)
+- ~~[Implement linear regression](torch/basic/lin-regression/lin-regression.ipynb) [(Solution)](torch/basic/lin-regression/lin-regression_SOLN.ipynb)~~
+- ~~[Write a custom Dataset and Dataloader to load from a CSV file](torch/basic/custom-dataset/custom-dataset.ipynb) [(Solution)](torch/basic/custom-dataset/custom-dataset_SOLN.ipynb)~~
+- ~~[Write a custom activation function (Simple)](torch/basic/custom-activation/custom-activation.ipynb) [(Solution)](torch/basic/custom-activation/custom-activation_SOLN.ipynb)~~
 - [ ] Implement Custom Loss Function (Huber Loss)](torch/basic/custom-loss/custom-loss.ipynb) [(Solution)](torch/basic/custom-loss/custom-loss_SOLN.ipynb)
 - [ ] Implement a Deep Neural Network](torch/basic/custom-DNN/custon-DNN.ipynb) [(Solution)](torch/basic/custom-DNN/custon-DNN_SOLN.ipynb)
 - [ ] Visualize Training Progress with TensorBoard in PyTorch](torch/basic/tensorboard/tensorboard.ipynb) [(Solution)](torch/basic/tensorboard/tensorboard_SOLN.ipynb)
