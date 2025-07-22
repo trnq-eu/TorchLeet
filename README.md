@@ -1,7 +1,9 @@
 
 # My TorchLeet Solutions 🚀
 
-This repository is a **fork** of [TorchLeet](https://github.com/Exorust/TorchLeet), which I use to track my progress on PyTorch exercises. I've added my solutions to these exercises within the respective `_SOLN.ipynb` notebooks inside each exercise's folder. You can mark completed exercises using the Markdown strikethrough syntax.
+This repository is a **fork** of [TorchLeet](https://github.com/Exorust/TorchLeet), which I use to track my progress on PyTorch exercises. 
+
+I've added my solutions to these exercises within the "Solutions" folder.
 
 ---
 
