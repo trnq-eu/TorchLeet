@@ -1,8 +1,4 @@
-I apologize for the oversight\! You are absolutely right. I misunderstood your previous request and provided the raw Markdown text without the `README.md` file format itself. My apologies for the confusion.
 
-Here's the content again, ensuring it's properly formatted for a Markdown file, ready for you to copy and paste into VS Code or any other text editor for your `README.md` file.
-
-```markdown
 # My TorchLeet Solutions 🚀
 
 This repository is a **fork** of [TorchLeet](https://github.com/Exorust/TorchLeet), which I use to track my progress on PyTorch exercises. I've added my solutions to these exercises within the respective `_SOLN.ipynb` notebooks inside each exercise's folder. You can mark completed exercises using the Markdown strikethrough syntax.
@@ -122,69 +118,5 @@ Each question is designed to take you one step closer to building your own LLM.
 - `<E/M/H><ID>/qname.ipynb`: The question file with incomplete code blocks.
 - `<E/M/H><ID>/qname_SOLN.ipynb`: The corresponding solution file.
 
-### 3. How to Use
-- Navigate to questions/ and pick a problem
-- Fill in the missing code blocks `(...)` and address the `#TODO` comments.
-- Test your solution and compare it with the corresponding file in `solutions/`.
 
-**Happy Learning! 🚀**
 
----
-
-# Contribution
-Feel free to contribute by adding new questions or improving existing ones. Ensure that new problems are well-documented and follow the project structure. Submit a PR and tag the authors.
-
----
-
-# Authors
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Exorust">
-          <img src="https://avatars.githubusercontent.com/u/20578676?v=4" width="100px;" alt="Chandrahas Aroori"/>
-          <br />
-          <b>Chandrahas Aroori</b>
-        </a>
-        <br />
-        💻 AI/ML Dev
-        <br />
-        <a href="https://twitter.com/charoori_ai" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" width="20px;" alt="Twitter"/>
-        </a>
-        <a href="https://www.linkedin.com/in/chandrahas-aroori/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LinkedIn_Logo_2013.svg" width="20px;" alt="LinkedIn"/>
-        </a>
-        <a href="mailto:charoori@bu.edu" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Email_icon.svg" width="20px;" alt="Email"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/CaslowChien">
-          <img src="https://avatars.githubusercontent.com/u/99608452?v=4" width="100px;" alt="Caslow Chien"/>
-          <br />
-          <b>Caslow Chien</b>
-        </a>
-        <br />
-        💻 Developer
-        <br />
-        <a href="https://caslowchien.github.io/caslow.github.io/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" width="20px;" alt="Website"/>
-        </a>
-        <a href="https://www.linkedin.com/in/caslow/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LinkedIn_Logo_2013.svg" width="20px;" alt="LinkedIn"/>
-        </a>
-        <a href="mailto:caslow@bu.edu" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Email_icon.svg" width="20px;" alt="Email"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## Stargazers over time
-[![Stargazers over time](https://starchart.cc/Exorust/TorchLeet.svg?variant=adaptive)](https://starchart.cc/Exorust/TorchLeet)
-```
